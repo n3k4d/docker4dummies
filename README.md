@@ -33,8 +33,8 @@ docker run NAMA_BEBAS_SILAKAN_DIGANTI -d -p 80:8000
 Google/Bing/DuckDuckGo dan Stack Overflow adalah teman terbaik Anda. Namun jika Anda benar-benar buntu, silakan menghubungi @liehart,@danes44,@debugvelop di Telegram.
 
 # Referensi
-https://hacktoberfest.digitalocean.com/
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-https://docs.docker.com/get-started/
-https://www.djangoproject.com/start/
-https://docs.docker.com/engine/reference/builder/
+* https://hacktoberfest.digitalocean.com/
+* https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+* https://docs.docker.com/get-started/
+* https://www.djangoproject.com/start/
+* https://docs.docker.com/engine/reference/builder/
