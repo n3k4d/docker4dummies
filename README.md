@@ -1,2 +1,2 @@
-# docker4dummies
-A collection of web framework Dockerfiles for development (and learning) purpose.
+# Apa itu Container dan Docker?
+Container sesuai namanya adalah sesuatu yang berisi atau menyimpan (contain). Dalam kasus ini, Container adalah sebuah unit yang berisi sebuah program. Container memungkinkan sebuah program dijalankan tanpa konfigurasi yang membingungkan dan rawan kesalahan. Salah satu teknologi Container yang populer adalah Docker. Docker merupakan platform terpadu untuk membuat, menjalankan, dan membagikan Container.
