@@ -38,3 +38,4 @@ Google/Bing/DuckDuckGo dan Stack Overflow adalah teman terbaik Anda. Namun jika 
 * https://docs.docker.com/get-started/
 * https://www.djangoproject.com/start/
 * https://docs.docker.com/engine/reference/builder/
+* https://rubygems.org/gems/
